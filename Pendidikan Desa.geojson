@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "Pendidikan Desa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Nama": "PAUD KB RUHUL ISLAM" }, "geometry": { "type": "Point", "coordinates": [ 108.72649689626671, -7.617840695748112, 0.0 ] } },
+{ "type": "Feature", "properties": { "Nama": "SDN 1 Banjarharja" }, "geometry": { "type": "Point", "coordinates": [ 108.718283290761761, -7.623333683346559, 0.0 ] } },
+{ "type": "Feature", "properties": { "Nama": "SDN 4 Banjarharja" }, "geometry": { "type": "Point", "coordinates": [ 108.728050776802277, -7.62145535892437, 0.0 ] } },
+{ "type": "Feature", "properties": { "Nama": "SMK IT Ibnu Ahkam Kalipucang" }, "geometry": { "type": "Point", "coordinates": [ 108.729083158575804, -7.620998881636324, 0.0 ] } },
+{ "type": "Feature", "properties": { "Nama": "SMK Al Kautsar Kalipucang" }, "geometry": { "type": "Point", "coordinates": [ 108.734174738093841, -7.626325334642769, 0.0 ] } },
+{ "type": "Feature", "properties": { "Nama": "SDN 2 Banjarharja" }, "geometry": { "type": "Point", "coordinates": [ 108.705161890926249, -7.624039409618844, 0.0 ] } },
+{ "type": "Feature", "properties": { "Nama": "MI Karangpucung Banjarharja" }, "geometry": { "type": "Point", "coordinates": [ 108.725299085708286, -7.62672784853034, 0.0 ] } },
+{ "type": "Feature", "properties": { "Nama": "Madrasah Diniyah" }, "geometry": { "type": "Point", "coordinates": [ 108.738796128312032, -7.629265012991739, 0.0 ] } },
+{ "type": "Feature", "properties": { "Nama": "SMK N 1 Kalipucang" }, "geometry": { "type": "Point", "coordinates": [ 108.740264640517765, -7.629728567447027, 0.0 ] } },
+{ "type": "Feature", "properties": { "Nama": "Madrasah Mubtadiin" }, "geometry": { "type": "Point", "coordinates": [ 108.712064782938867, -7.639587061435099, 0.0 ] } }
+]
+}

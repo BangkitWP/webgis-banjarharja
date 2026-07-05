@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "Tempat Ibadah",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Jenis": "Masjid" }, "geometry": { "type": "Point", "coordinates": [ 108.724697526491497, -7.627085245476785 ] } },
+{ "type": "Feature", "properties": { "Jenis": "Masjid" }, "geometry": { "type": "Point", "coordinates": [ 108.728560775167537, -7.627062244683203 ] } },
+{ "type": "Feature", "properties": { "Jenis": "Musholla" }, "geometry": { "type": "Point", "coordinates": [ 108.727421351239329, -7.618806729078671 ] } },
+{ "type": "Feature", "properties": { "Jenis": "Masjid" }, "geometry": { "type": "Point", "coordinates": [ 108.726561475417682, -7.617295753869439 ] } },
+{ "type": "Feature", "properties": { "Jenis": "Masjid" }, "geometry": { "type": "Point", "coordinates": [ 108.720234487890522, -7.622711556112359 ] } },
+{ "type": "Feature", "properties": { "Jenis": "Masjid" }, "geometry": { "type": "Point", "coordinates": [ 108.718913711551266, -7.617835387872734 ] } },
+{ "type": "Feature", "properties": { "Jenis": "Masjid" }, "geometry": { "type": "Point", "coordinates": [ 108.702901620633796, -7.627219711654646 ] } },
+{ "type": "Feature", "properties": { "Jenis": "Masjid" }, "geometry": { "type": "Point", "coordinates": [ 108.697153191529821, -7.627607186561929 ] } },
+{ "type": "Feature", "properties": { "Jenis": "Masjid" }, "geometry": { "type": "Point", "coordinates": [ 108.703634107444756, -7.634082794601481 ] } },
+{ "type": "Feature", "properties": { "Jenis": "Masjid" }, "geometry": { "type": "Point", "coordinates": [ 108.71185954508843, -7.639576445684215 ] } },
+{ "type": "Feature", "properties": { "Jenis": "Masjid" }, "geometry": { "type": "Point", "coordinates": [ 108.718260842871786, -7.636540340931244 ] } },
+{ "type": "Feature", "properties": { "Jenis": "Musholla" }, "geometry": { "type": "Point", "coordinates": [ 108.724578983939892, -7.630958225257806 ] } },
+{ "type": "Feature", "properties": { "Jenis": "Masjid" }, "geometry": { "type": "Point", "coordinates": [ 108.74184550275352, -7.627925659088468 ] } },
+{ "type": "Feature", "properties": { "Jenis": "Masjid" }, "geometry": { "type": "Point", "coordinates": [ 108.734955880429538, -7.616752581282515 ] } },
+{ "type": "Feature", "properties": { "Jenis": "Masjid" }, "geometry": { "type": "Point", "coordinates": [ 108.728612969276085, -7.616202331528332 ] } }
+]
+}
