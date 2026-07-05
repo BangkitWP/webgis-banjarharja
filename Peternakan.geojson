@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Peternakan",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "peternakan bapak habib" }, "geometry": { "type": "Point", "coordinates": [ 108.69893140792, -7.62008303984921, 227.701049804688012 ] } },
+{ "type": "Feature", "properties": { "Name": "peternakan kambing kelompok ternak tunas harapan" }, "geometry": { "type": "Point", "coordinates": [ 108.717069912664002, -7.62504691397597, 56.1729125976562 ] } },
+{ "type": "Feature", "properties": { "Name": "peternakan kelompok tani lembu harja" }, "geometry": { "type": "Point", "coordinates": [ 108.723355473230001, -7.62395236518178, 37.658332824707003 ] } }
+]
+}

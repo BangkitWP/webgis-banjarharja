@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Agrowisata",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "agrowisata" }, "geometry": { "type": "Point", "coordinates": [ 108.721038333332999, -7.63264666666667, 97.793998718261705 ] } },
+{ "type": "Feature", "properties": { "Name": "budidaya anggrek" }, "geometry": { "type": "Point", "coordinates": [ 108.719249486164998, -7.62877226269143, 30.125179290771499 ] } },
+{ "type": "Feature", "properties": { "Name": "budidaya ikan nila (kelompok ikan cipta mandiri)" }, "geometry": { "type": "Point", "coordinates": [ 108.714771666667005, -7.6387, 190.870162963866989 ] } },
+{ "type": "Feature", "properties": { "Name": "pengolahan kelapa" }, "geometry": { "type": "Point", "coordinates": [ 108.727214380785, -7.61704022863178, 7.03796339035034 ] } }
+]
+}
